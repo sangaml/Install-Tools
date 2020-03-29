@@ -1,2 +1,2 @@
-# sangamlonk-gmail.com
+# Installing software script
 Install-tools
